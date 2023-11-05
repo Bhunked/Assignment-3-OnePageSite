@@ -1,0 +1,71 @@
+@import url(https://meyerweb.com/eric/tools/css/reset/reset.css);
+
+body{
+    font-size: 1rem;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin-left:;
+    margin-right: 1%; */
+    background-color: aliceblue; 
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 0.5 ease;
+
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.testing{
+    margin-top: 600px;
+}
+/* .myBtn{
+    border: none;
+    font-size: 30px;
+} */
+.moreText{
+    font-size: 1px;
+}
+
+button{
+    font-size: 2rem;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: transparent;
+    box-shadow: 0px 0px 0px transparent;
+    border: 0px solid;
+    text-shadow: 0px 0px 0px transparent;
+    cursor:pointer;    
+}
+button:hover {
+    background-color: #ffffff20;
+    transition: 0.5 ease;
+}
+#qna {
+    background-color:  #5c99fa;
+}
+#qna2 {
+    background-color: #3b57f5;
+}
+.ansAll {
+    font-size: 1px;
+    opacity: 0%;
+}
+
+#information {
+    background-color:#0062ff;
+    margin-bottom: 20px;
+}
